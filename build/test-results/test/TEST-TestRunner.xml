@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRunner" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-03-09T09:37:19" hostname="UB40301-89" time="35.863">
+  <properties/>
+  <testcase name="doSum" classname="TestRunner" time="5.04"/>
+  <testcase name="doSub" classname="TestRunner" time="4.812"/>
+  <testcase name="doMul" classname="TestRunner" time="5.333"/>
+  <testcase name="doDiv" classname="TestRunner" time="6.06"/>
+  <testcase name="doSeries" classname="TestRunner" time="12.059"/>
+  <system-out><![CDATA[14
+5
+70
+7
+260
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

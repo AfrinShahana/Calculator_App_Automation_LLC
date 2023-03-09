@@ -1,0 +1,1 @@
+{"uuid":"3e65c9c8-cac9-4efb-b1b5-33acf26fcca0","name":"TestRunner.clearScreen","children":["60d50b96-6efe-4bcc-821a-a6d2cdae8cf2"],"description":"","befores":[],"afters":[{"name":"clearScreen","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1678354655737,"stop":1678354656332}],"start":1678354655737,"stop":1678354656332}
